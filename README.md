@@ -1,2 +1,0 @@
-# onHoverDisplacementAnimationGrid
-Created with CodeSandbox
